@@ -91,3 +91,7 @@
 *   `WEB-INF/`: Java Servlet 的設定和編譯後的類別。
     *   `lib/`: 專案依賴的 `.jar` 檔案，如 MySQL 連接器。
 *   `MovieReviw.war`: 可直接部署的 Web Application Archive 檔案。
+
+---
+
+學生課堂專案
